@@ -54,8 +54,8 @@ Here is the list of names to classify:
             }
         )
 
-        classified_names = response['message']['content']
-        print(classified_names.strip())
+        classinames = response['message']['content']
+        print(classinames.strip())
 
     except Exception as e:
         print(f"the procese failed: {e}")
