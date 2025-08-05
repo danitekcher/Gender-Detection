@@ -13,7 +13,7 @@ A simple yet powerful Python script for classifying names by gender using Large 
 
 This script reads a text file containing names and classifies them into `male` and `female` categories, displaying the output in the terminal.
 
-**Input (`names.txt`):**
+**Input (`nameslist.txt`):**
 ```txt
 Michael
 Jessica
